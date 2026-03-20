@@ -33,7 +33,7 @@ It helps track:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard(2).png)
 
 ---
 
