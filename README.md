@@ -54,6 +54,14 @@ It helps track:
 
 ---
 
+## 📊 Project Impact
+- Reduced manual reporting effort using VBA automation  
+- Enabled quick performance analysis through interactive dashboard  
+- Structured raw data into meaningful business insights  
+- Designed end-to-end reporting workflow  
+
+---
+
 ## ⚙️ How to Use
 
 1. Download the `.xlsm` file
